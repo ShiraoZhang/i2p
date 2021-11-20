@@ -2,13 +2,13 @@
 
 ### Declaration of Authorship
 
-I, [insert your name], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, Shirao Zhang, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
-['Sign' your name here]
+Shirao Zhang
 
-Date of signature: 
-Assessment due date: 
-Student Number: 
+Date of signature: 20/11/2021
+Assessment due date: 26/11/2021
+Student Number: 21053585
 
 _Please write your answer immediately below the level-3 headers and delete the guidance prior to submission._
 
