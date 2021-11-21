@@ -66,5 +66,5 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 [5] V. Bemt, J. Doornbos, L. Meijering, M. Plegt, N. Theunissen. (2018, February) “Teaching ethics when working with geocoded data: a novel experiential learning approach”. Journal of Geography in Higher Education [Online]. vol. 42, issue 2. Available: https://www.tandfonline.com/doi/full/10.1080/03098265.2018.1436534
 
-## Appendix 
+## Appendix
 
