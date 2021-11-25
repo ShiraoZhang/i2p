@@ -56,7 +56,7 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 ## Bibliography
 
-[1]&emsp;D. Wachsmuth and A. Weisler. (2018, June) “Airbnb and the rent gap: Gentrification through the sharing economy”, Environment and Planning A: Economy and Space [Online]. vol. 50, issue 6. pp. 1147–1170. Available: https://journals.sagepub.com/doi/10.1177/0308518X18778038
+[1]&emsp;D. Wachsmuth and A. Weisler. (2018, June) “Airbnb and the rent gap: Gentrification through the sharing economy”, Environment and&emsp;Planning A: Economy and Space [Online]. vol. 50, issue 6. pp. 1147–1170. Available: https://journals.sagepub.com/doi/10.1177/0308518X18778038
 
 [2] J. Harris. (2018, February. 12). Profiteers make a killing on Airbnb – and erode communities [Online]. Available: https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities
 
